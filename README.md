@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leah Selig</h1>
-<h3 align="center">A passionate full-stack developer from California</h3>
+<h3 align="center">A Passionate Full-Stack Developer From California</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and the MERN Stack**
 
