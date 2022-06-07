@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and the MERN Stack**
 
-- 👨‍💻 All of my projects are available at [leahselig.github.io](leahselig.github.io)
+- 👨‍💻 All of my projects are available [here](https://leahselig.github.io/)
 
 - 📫 How to reach me **lselig444@gmail.com**
 
